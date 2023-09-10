@@ -1,0 +1,8 @@
+export { default as NavBar } from "./NavBar"
+export { default as Header } from "./Header"
+export { default as HomeBanner } from "./HomeBanner"
+export { default as HeadingTilels } from "./HeadingTilels"
+export { default as CardSlider } from "./CardSlider"
+export { default as WeddingCat } from "./Wedingcate"
+export { default as WMGInhouse } from "./WMG-Inhouse-Services"
+export { default as Download } from "./DownloadApp"
